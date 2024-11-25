@@ -152,17 +152,3 @@ Driven by a passion for AI and full-stack development. Skilled in building scala
 
 <br>
 
-### DJDarkCyber/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for DJDarkCyber&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#DJDarkCyber/DJDarkCyber&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DJDarkCyber/DJDarkCyber&type=Date&theme=dark" />
-  </a>
-
-</details>
-
