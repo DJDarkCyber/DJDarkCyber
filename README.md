@@ -142,7 +142,7 @@ Driven by a passion for AI and full-stack development. Skilled in building scala
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/DJDarkCyber?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="DJDarkCyber's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/DJDarkCyber?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="">
       <img src="https://github-readme-bento.vercel.app/stats/DJDarkCyber?theme=dark" alt="DJDarkCyber's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=DJDarkCyber" alt="Advanced GitHub Stats for DJDarkCyber" width="400">
 
